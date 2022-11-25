@@ -1,11 +1,13 @@
 #include <stddef.h>
 #include "sort.h"
+
 /**
   * selection_sort - sorts an array of integers in ascending
   * order using selection sort
   * @array: array of integers
   * @size: size of array
   */
+
 void selection_sort(int *array, size_t size)
 {
 	size_t step, min_idx, i;
