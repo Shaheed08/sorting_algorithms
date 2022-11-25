@@ -1,6 +1,5 @@
 #include "sort.h"
 #include <stdio.h>
-#include <stddef.h>
 
 /**
  * insertion_sort_list - sorts a DLL of integers in
